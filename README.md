@@ -63,4 +63,10 @@ Please refer to the "package.json" file for the complete list of dependencies an
 Contributions to the "lit search" web application are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or create a pull request. Please ensure that your contributions adhere to the code style and best practices used in the project.
 
 ## License
+- MIT
+
+  ## LINKS
+
+- repo: https://github.com/gabinoe/lit-search
+- pages: https://gabinoe.github.io/lit-search
 
